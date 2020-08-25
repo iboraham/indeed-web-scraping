@@ -1,0 +1,44 @@
+IBRAHIM ONUR SERBETCI
+PROFILE
+Industrial Engineering major (3.04 GPA) currently attending MEF University, with 10 months of work experience. Aiming to leverage a proven knowledge of advanced technology, machine learning, optimization and statistics skills to successfully be a Data Scientist. Frequently praised as hard- working by my peers, I can be relied upon to help your company achieve its goals.HARD SKILLS
+-R
+- Constructing Predictive Models - Python
+- Data Analysis
+- Machine Learning
+- Java
+- Statistical Analysis
+- Data Wrangling
+- SQL
+- Microsoft Office
+CONTACT
+Mobile: +90 537-017-3333 ionurserbetci@gmail.com 123 Ince kas Street, Istanbul LinkedIn: @ionur-serbetci
+REFERENCES
+SOFT SKILLS
+- Analytical Thinking - Presentation - Critical Thinking - Creativity - Communication - Collaboration- References avaliable upon request.WORK EXPERİENCE
+OPERATIONS INTERN
+Sanko Holding | Jun. 2019 to Jul 2019
+- Support to review production schedules, engineering specifications, orders, and related information to obtain knowledge of manufacturing methods, procedures, and activities.
+- Estimate production costs, cost-saving methods, and the effects of product design changes on expenditures for management review, action, and control.
+ERP DEVELOPER INTERN
+Acrome Robotics | Oct. 2018 to Dec. 2018
+- Carrying out product classification and coding processes in production systems with a team.
+- Create Amazon AWS ec2 instance for the company .
+- Strengthening the Odoo ERP system used in the company by developing a new Odoo environment.
+FINANCIAL AND BUSINESS ANALYSIS INTERN Volkswagen Financial Services | Aug. 2018 to Sep. 2018
+- Supporting the evaluation and processing of credit for truck and bus in the VDF credit assessment department.
+- Supporting the financial analysis making process for companies' credit applications.
+- Systematizing the archiving of credit application contracts and help to register to the VDF.net system.
+- Supporting the credit configuration process.
+SUPPLY CHAIN EFFICIENCY INTERN
+BSH Home Appliances Group | Jun. 2018 to Aug. 2018
+- Supporting to prepare production plans for oven factory assembly lines and support international logistics and procurement processes by using SAP PP and SAP MM.
+- Support for preparing reports on logistics performance measures.
+- Provide ongoing analyses in areas such as transportation costs, parts procurement, backorders, or delivery processes.
+EDUCATION
+MEF UNIVERSITY
+Bachelor of Science in Industrial Engineering
+- Years Attended: 2015 to 2020
+- Member of IEEE
+- Coursework in Probability and Statistics I-II, Introduction to Machine Learning, Operations Research I-II, Marketing Analytics, Explanatory Data Analytics, Information Systems, Modeling and Methods in Optimization, Decision Analysis and Business Intelligence
+- Honor Degree in Spring 2016-2017, Spring 2017-2018, Fall 2019-2020
+- GPA: 3.04
