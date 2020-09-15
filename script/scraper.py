@@ -1,11 +1,9 @@
-import math
 import re
-
+from column_scraper import scrap_title, scrap_company, scrap_description, scrap_salary, scrap_location
 import selenium
 from selenium import webdriver
 import pandas as pd
 from bs4 import BeautifulSoup
-from selenium.webdriver import ActionChains
 from selenium.webdriver.chrome.options import Options
 import numpy as np
 
@@ -25,59 +23,6 @@ def set_options():
 
 
 df, search_terms, driver = set_options()
-
-
-# Title
-def scrap_title(soup=None):
-    try:
-        title = soup.find("a", class_="jobtitle").text.replace('\n', '')
-    except:
-        title = 'None'
-    return title
-
-
-# Location
-def scrap_location(soup=None):
-    try:
-        location = soup.find(class_="location").text
-    except:
-        location = 'None'
-    return location
-
-
-# Company
-def scrap_company(soup):
-    try:
-        company = soup.find(class_="company").text.replace("\n", "").strip()
-    except:
-        company = 'None'
-    return company
-
-
-# Salary
-def scrap_salary(soup):
-    try:
-        salary = soup.find(class_="salaryText").text.replace('\n', '').strip()
-    except:
-        salary = 'None'
-    return salary
-
-
-# Description
-def scrap_description(job):
-    sum_div = job.find_elements_by_class_name("summary")[0]
-    try:
-        sum_div.click()
-        if len(driver.window_handles) > 1:
-            driver.switch_to.window(driver.window_handles[0])
-        job_desc = driver.find_element_by_id('vjs-desc').text
-    except:
-        sum_div.click()
-        if len(driver.window_handles) > 1:
-            driver.switch_to.window(driver.window_handles[0])
-        driver.implicitly_wait(5)
-        job_desc = driver.find_element_by_id('vjs-desc').text
-    return job_desc
 
 
 def find_cols(soup, job):
@@ -122,6 +67,7 @@ def scrap(index, data_frame):
 
 
 def accept_cookies():
+    driver.implicitly_wait(2)
     cookies = driver.find_element_by_xpath('//*[@id="onetrust-accept-btn-handler"]')
     cookies.click()
 
