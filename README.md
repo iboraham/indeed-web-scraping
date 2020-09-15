@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to indeed-web-scraping 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-v0.1-blue.svg?cacheSeconds=2592000" />
+  <img src='https://bettercodehub.com/edge/badge/iboraham/indeed-web-scraping?branch=master'>
   <a href="https://github.com/iboraham/indeed-web-scraping/blob/master/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -24,9 +25,9 @@ git clone https://github.com/iboraham/indeed-web-scraping.git
 
 ## Usage
 
-```sh
-This is pure analysis repository for personal usage. If you want your personal job analysis, you may want to see my other repository.
-```
+
+This is pure analysis repository for personal usage. If you want your personal job analysis, you may want to see my other [repository](https://github.com/iboraham/job-finder).
+
 
 ## Author
 
@@ -39,7 +40,7 @@ This is pure analysis repository for personal usage. If you want your personal j
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/iboraham/indeed-web-scraping/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/iboraham/indeed-web-scraping/issues).
 
 ## Show your support
 
